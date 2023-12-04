@@ -37,7 +37,6 @@
     <p>Gracias por hacer mi vida completa y llena de felicidad.</p>
     <p>Siempre tuyo,</p>
     <p>Rodriguito</p>
-    <!-- Puedes agregar una imagen si lo deseas -->
     <img src="Amor/amor.jpg" alt="Imagen de Jeimy y yo"> -->
 </body>
 </html>
